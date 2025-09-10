@@ -3,6 +3,20 @@
 Lyrics transcription from **clean vocal stems** using deep learning.  
 A curriculum learning extension to gradually add background music was planned but **not included** in this submission.
 
+<p align="left">
+  <a href="https://colab.research.google.com/github/gideon-szamet/neural-lyric-transcriber/blob/main/notebooks/01_Data_preparations.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 01_Data_preparations in Colab">
+  </a>
+  <a href="https://colab.research.google.com/github/gideon-szamet/neural-lyric-transcriber/blob/main/notebooks/02_First_Model_CNN_BiLSTM_CTC.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 02_First_Model_CNN_BiLSTM_CTC in Colab">
+  </a>
+  <a href="https://colab.research.google.com/github/gideon-szamet/neural-lyric-transcriber/blob/main/notebooks/03_Second_Model_Transformer_CTC.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 03_Second_Model_Transformer_CTC in Colab">
+  </a>
+  <a href="https://colab.research.google.com/github/gideon-szamet/neural-lyric-transcriber/blob/main/notebooks/04_Third_Model_Whisper_finetune.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 04_Third_Model_Whisper_finetune in Colab">
+  </a>
+</p>
 
 ## Overview
 This project explores three successive approaches to lyric transcription from clean vocal stems.
