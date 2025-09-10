@@ -5,18 +5,19 @@ A curriculum learning extension to gradually add background music was planned bu
 
 <p align="left">
   <a href="https://colab.research.google.com/github/gideon-szamet/neural-lyric-transcriber/blob/main/notebooks/01_Data_preparations.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 01_Data_preparations in Colab">
-  </a>
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 01_Data_preparations in Colab"> 01_Data_preparations
+  </a><br>
   <a href="https://colab.research.google.com/github/gideon-szamet/neural-lyric-transcriber/blob/main/notebooks/02_First_Model_CNN_BiLSTM_CTC.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 02_First_Model_CNN_BiLSTM_CTC in Colab">
-  </a>
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 02_First_Model_CNN_BiLSTM_CTC in Colab"> 02_First_Model_CNN_BiLSTM_CTC
+  </a><br>
   <a href="https://colab.research.google.com/github/gideon-szamet/neural-lyric-transcriber/blob/main/notebooks/03_Second_Model_Transformer_CTC.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 03_Second_Model_Transformer_CTC in Colab">
-  </a>
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 03_Second_Model_Transformer_CTC in Colab"> 03_Second_Model_Transformer_CTC
+  </a><br>
   <a href="https://colab.research.google.com/github/gideon-szamet/neural-lyric-transcriber/blob/main/notebooks/04_Third_Model_Whisper_finetune.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 04_Third_Model_Whisper_finetune in Colab">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open 04_Third_Model_Whisper_finetune in Colab"> 04_Third_Model_Whisper_finetune
   </a>
 </p>
+
 
 ## Overview
 This project explores three successive approaches to lyric transcription from clean vocal stems.
