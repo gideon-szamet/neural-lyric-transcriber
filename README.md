@@ -37,8 +37,9 @@ A curriculum extension to progressively include mixed audio was planned but not 
 
 ## Reports
 
-- [📄 Final Project Summary (PDF)](reports/DL_Final%20Project%20Summary_Gideon_Szamet.pdf)
-- [📊 Project Presentation (PPTX)](reports/Final_DL_project_Gideon_Szamet.pptx)
+[![View PDF](https://img.shields.io/badge/View-PDF-blue)](reports/DL_Final%20Project%20Summary_Gideon_Szamet.pdf)
+[![View PPTX](https://img.shields.io/badge/View-PPTX-orange)](reports/Final_DL_project_Gideon_Szamet.pptx)
+
 
 
 ## Project Structure
