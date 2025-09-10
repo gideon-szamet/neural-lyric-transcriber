@@ -1,0 +1,46 @@
+# =====================================
+# Python / Jupyter
+# =====================================
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# =====================================
+# OS / Editor junk
+# =====================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =====================================
+# Virtual environments / builds
+# =====================================
+.env/
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# =====================================
+# Data (exclude audio, keep metadata)
+# =====================================
+# Raw dataset
+data/raw/
+
+# Processed audio (too large for Git)
+data/processed/audio_chunks/
+data/processed/train_chunks_augmented/
+data/processed/test_chunks/
+data/processed/train_chunks/
+
+# Hugging Face dataset cache (too large for Git)
+data/processed/**/*.arrow
+data/processed/**/state.json
+data/processed/**/dataset_info.json
+
+
+# Keep only metadata

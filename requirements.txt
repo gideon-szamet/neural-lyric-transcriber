@@ -1,0 +1,26 @@
+# Core deep learning
+torch
+torchaudio
+
+# Hugging Face ecosystem
+transformers>=4.38
+datasets
+accelerate
+evaluate
+
+# Audio I/O & processing
+librosa
+soundfile
+stempeg
+audioread
+pydub
+scipy
+
+# Metrics
+jiwer
+
+# Utilities
+numpy
+pandas
+tqdm
+matplotlib
