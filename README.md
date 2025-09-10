@@ -35,6 +35,12 @@ A curriculum extension to progressively include mixed audio was planned but not 
 - Reproducible notebooks under `notebooks/`
 - GPU-friendly; works in Google Colab or locally
 
+## Reports
+
+- [📄 Final Project Summary (PDF)](reports/DL_Final%20Project%20Summary_Gideon_Szamet.pdf)
+- [📊 Project Presentation (PPTX)](reports/Final_DL_project_Gideon_Szamet.pptx)
+
+
 ## Project Structure
 ```
 neural-lyric-transcriber/
